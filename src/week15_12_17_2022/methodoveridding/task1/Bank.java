@@ -9,7 +9,7 @@ public class Bank {
     //How can get the class name?
     //The answer is getClass().getSimpleName()
     public void calculateTheInterest(){
-        System.out.println("Interest of the bank "+getClass().getSimpleName());
+        System.out.println("Interest Of The Bank "+getClass().getSimpleName());
     }
 }
 /*
